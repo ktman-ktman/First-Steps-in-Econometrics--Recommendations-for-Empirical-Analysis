@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "oderwat.indent-rainbow",
+    "vscode-icons-team.vscode-icons",
+    "mosapride.zenkaku",
+    "shardulm94.trailing-spaces",
+    "github.github-vscode-theme",
+    "mechatroner.rainbow-csv",
+    "ibm.output-colorizer",
+    "ionutvmi.path-autocomplete",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "mutantdino.resourcemonitor",
+    "visualstudioexptteam.vscodeintellicode",
+  ]
+}
